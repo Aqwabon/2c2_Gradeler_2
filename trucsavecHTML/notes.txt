@@ -1,0 +1,8 @@
+notes pour exo Openlayers : 
+
+Aller voir la doc d'OpenLayers pour chercher des informations sur où et comment commencer 
+Recherche d'un tuto en ligne pour avoir une base déjà faite pour pouvoir décortiquer la structure
+Plusieurs tentatives avec plusieurs tuto et la doc OpenLayers mais impossible d'afficher une carte
+Demande à ChatGPT de me génerer un script simple qui doit uniquement m'afficher une carte (pour avoir une structure fonctionnelle) 
+-> semi échec (la carte ne s'affiche pas mais j'ai les boutons de zoom/dezoom)
+La console nous dit qu'un lien utilisé pour le fond de carte est bloqué -> il faut adapter le js pour trouver un nouveau fond de carte 
